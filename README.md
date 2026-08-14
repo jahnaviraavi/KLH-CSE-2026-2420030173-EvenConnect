@@ -1,5 +1,5 @@
 # KLH-CSE-2026-2420030173-EvenConnect
-# EventConnect – Smart Event Management and Registration System
+**EventConnect - Plan. Manage. Connect.**
 
 ## Team Members
 
@@ -416,7 +416,7 @@ The project aims to demonstrate the practical application of:
 
 ## Academic Project
 
-**EventConnect – Smart Event Management and Registration System**
+****EventConnect - Plan. Manage. Connect.****
 
 **Adaptive Software Engineering – 24CI3201**
 
